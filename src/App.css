@@ -1,0 +1,38 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+}
+
+.bmi{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 300px;
+  /* height: 350px; */
+  background-color: rgb(125, 125, 213);
+  padding: 20px 50px;
+  border-radius: 10px;
+}
+input{
+  padding: 10px 5px;
+  font-size: 17px;
+  text-align: center;
+  
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
+.btn{
+  padding: 10px 5px;
+  font-size: 17px;
+  text-align: center;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(38, 48, 117);
+  cursor: pointer;
+  color: aliceblue;
+}
