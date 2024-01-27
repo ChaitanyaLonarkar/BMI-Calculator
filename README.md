@@ -1,6 +1,6 @@
 # Go to live React App
 
-your-bmi-calculater.netlify.app
+https://your-bmi-calculater.netlify.app
 
 # Getting Started with Create React App
 
